@@ -1,0 +1,3 @@
+t=int(input("enter the temparature in Farrenheit"))
+c=(t-23)*(5/9)
+print("the temparature in degree celsius is",c)
